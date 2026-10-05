@@ -21,4 +21,4 @@ jobs:
           cache-dependency-path: Find_the_Number/pom.xml
       - name: Verify
         working-directory: Find_the_Number
-        run: mvn --batch-mode --no-transfer-progress -Djava.awt.headless=true clean verify
+        run: mvn --batch-mode --no-transfer-progress "-Djava.awt.headless=true" clean verify
