@@ -1,0 +1,31 @@
+# Build output
+target/
+bin/
+out/
+*.class
+
+# Local IDE configuration
+.vscode/
+.idea/
+.settings/
+.metadata/
+.classpath
+.project
+*.iml
+
+# Local scores (keep other text resources versioned)
+/puntaje.txt
+/Find_the_Number/puntaje.txt
+
+# Temporary files and diagnostics
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini

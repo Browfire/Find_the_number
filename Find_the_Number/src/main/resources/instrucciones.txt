@@ -1,0 +1,14 @@
+F1nd th3 Numb3r
+
+Descubre el codigo oculto de cuatro cifras distintas. El cero puede aparecer al principio.
+
+Cada intento valido entrega dos pistas:
+
+Toque: una cifra esta en el codigo, pero en otra posicion.
+Fama: una cifra esta en su posicion exacta.
+
+La partida termina al conseguir cuatro famas. Los intentos invalidos no cuentan como turnos.
+
+El puntaje aumenta al resolver el codigo en menos intentos y menos tiempo. Una victoria antes del primer segundo conserva el tiempo 00:00 y usa un segundo minimo para calcular puntos.
+
+Al entrar entre los diez mejores puedes registrar un nombre de hasta diez caracteres. Cancelar omite el guardado. Puedes abandonar la partida y regresar al menu en cualquier momento.
